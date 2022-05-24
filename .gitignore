@@ -1,0 +1,5 @@
+**/.bit
+**/node_modules
+.env
+.bitmap
+workspace.jsonc
